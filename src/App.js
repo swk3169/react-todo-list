@@ -14,7 +14,7 @@ class App extends Component {
     input: '',
     todos: [
       { id: 0, text: ' 리액트 소개', checked: false },
-      { id: 1, text: ' 리액트 소개', checked: true },
+      { id: 1, text: ' 리액트 소개', checked: false },
       { id: 2, text: ' 리액트 소개', checked: false }
     ],
     color: '#343a40'
